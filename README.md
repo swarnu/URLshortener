@@ -8,4 +8,5 @@ URL Shortener app with Django.
 Running this app:
 
 $ python manage.py syncdb 
+
 $ python manage.py runserver
